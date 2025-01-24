@@ -11,6 +11,11 @@ Feel free to reach out to me via Email or connect on LinkedIn. 😊
 
 ---
 
+### 🚗 Right now, I’m devoting my screen time to peeking through occlusions to detect vehicles!!
+<img src="https://github.com/surajrao2003/surajrao2003/raw/main/asset1.gif" height="400"/>
+
+---
+
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajrao20@cse.iiitp.ac.in) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajrao2003) 
