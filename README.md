@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! I’m Suraj Rao, a tech enthusiast who enjoys solving complex problems with well-thought-out algorithms, often with a good cup of tea. ☕
 
-I currently work as a researcher at **IIT Delhi Vision and Graphics Lab**.
+I currently work as an AI researcher at **IIT Delhi Vision and Graphics Lab**.
 
 I hold a **B.Tech in Computer Science** from **IIIT Pune**, and my work experience centers on addressing challenges with AI-driven solutions, particularly using **deep learning** and **computer vision**. After working on people detection and recognition solutions for video surveillance, I am currently focused on computer vision techniques tailored for driving assistance and autonomous systems, specifically addressing challenges in the Indian context.
 
