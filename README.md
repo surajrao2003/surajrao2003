@@ -5,8 +5,6 @@ I currently work as a researcher at **IIT Delhi Vision and Graphics Lab**.
 
 I hold a **B.Tech in Computer Science** from **IIIT Pune**, and my work experience centers on addressing challenges with AI-driven solutions, particularly using **deep learning** and **computer vision**. After working on people detection and recognition solutions for video surveillance, I am currently focused on computer vision techniques tailored for driving assistance and autonomous systems, specifically addressing challenges in the Indian context.
 
-I’m enhancing my ML and data engineering fundamentals while exploring opportunities as an ML/MLOps Engineer. I also like to stay up-to-date with the latest in **large language models (LLMs)**.
-
 Feel free to reach out to me via Email or connect on LinkedIn. 😊
 
 ---
