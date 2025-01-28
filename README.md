@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Suraj Rao, and I am a passionate AI engineer with a strong interest in machine learning and computer vision. I enjoy solving complex problems with well-thought-out algorithms, often with a good cup of tea ☕
+Hello! My name is Suraj Rao, and I am a passionate AI engineer with a strong interest in machine learning and GenAI. I enjoy solving complex problems with well-thought-out algorithms, often with a good cup of tea ☕
 
 I currently work as an AI researcher at **IIT Delhi Vision and Graphics Lab**. 
 
