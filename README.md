@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Suraj Rao, a tech enthusiast who enjoys solving complex problems with well-thought-out algorithms, often with a good cup of tea. ☕
+Hi there! I’m Suraj Rao, a passionate tech engineer who enjoys solving complex problems with well-thought-out algorithms, often with a good cup of tea ☕
 
 I currently work as an AI researcher at **IIT Delhi Vision and Graphics Lab**.
 
