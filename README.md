@@ -3,7 +3,9 @@ Hello! My name is Suraj Rao, and I am a passionate AI engineer with a strong int
 
 I currently work as an AI researcher at **IIT Delhi Vision and Graphics Lab**. 
 
-I hold a **B.Tech in Computer Science** from **IIIT Pune**, and my work experience centers on addressing challenges with AI-driven solutions, particularly using **deep learning** and **computer vision**. After working on people detection and recognition solutions for video surveillance, I am currently focused on computer vision techniques tailored for driving assistance and autonomous systems, specifically addressing challenges in the Indian context. I also try to keep up with the latest advancements in LLMs.
+I hold a **B.Tech degree in Computer Science** from **IIIT Pune**, and my work experience centers on addressing real-world challenges with AI-driven solutions, particularly using **deep learning** and **computer vision**. After working on people detection and recognition solutions for video surveillance, I am currently focused on computer vision techniques tailored for driving assistance and autonomous systems, specifically addressing challenges in the Indian context. 
+
+In my free time, I enjoy exploring the latest advancements in large language models (LLMs) and contributing to the broader AI community.
 
 Feel free to reach out to me via Email or connect on LinkedIn. 😊
 
