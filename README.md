@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello! My name is Suraj Rao, and I am a passionate AI engineer with a strong interest in machine learning and GenAI. I enjoy solving complex problems with well-thought-out algorithms, often with a good cup of tea ☕
+Hi, I'm Suraj
 
-I currently work as an AI researcher at **IIT Delhi Vision and Graphics Lab**. 
+I'm an aspiring AI/ML engineer passionate about building intelligent systems that learn, see, and adapt to the real world.
 
-I hold a **B.Tech degree in Computer Science** from **IIIT Pune**, and my work experience centers on addressing real-world challenges with AI-driven solutions, particularly using **deep learning** and **computer vision**. After working on people detection and recognition solutions for video surveillance, I am currently focused on computer vision techniques tailored for driving assistance and autonomous systems, specifically addressing challenges in the Indian context. 
+I hold a B.Tech in Computer Science from IIIT Pune, and my work so far has centered on addressing real-world challenges with AI-driven solutions using deep learning and computer vision. I worked on developing people detection and recognition systems for video surveillance applications. Additionally, I applied computer vision techniques to driver assistance and autonomous systems, particularly addressing challenges specific to the Indian context.
 
-In my free time, I enjoy exploring the latest advancements in large language models (LLMs) and contributing to the broader AI community.
+In my free time, I enjoy exploring the latest AI tools that boost productivity (like ChatGPT, NotebookLM, Bolt, Napkin). When I'm not geeking out, you'll find me swimming, trekking or saying yes to spontaneous travel plans. 
 
-Feel free to reach out to me via Email or connect on LinkedIn. 😊
+Feel free to reach out via email or connect with me on LinkedIn. 
 
 ---
 
@@ -19,7 +19,6 @@ Feel free to reach out to me via Email or connect on LinkedIn. 😊
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajrao20@cse.iiitp.ac.in) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajrao2003) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_suraj_rao)  
 
 ---
 
