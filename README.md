@@ -3,7 +3,7 @@ Hi, I'm Suraj
 
 I'm an aspiring AI/ML engineer passionate about building intelligent systems that learn, see, and adapt to the real world.
 
-I hold a B.Tech in Computer Science from IIIT Pune, and my work so far has centered on addressing real-world challenges with AI-driven solutions using deep learning and computer vision. I worked on developing people detection and recognition systems for video surveillance applications. Additionally, I applied computer vision techniques to driver assistance and autonomous systems, particularly addressing challenges specific to the Indian context.
+Currently, I'm pursuing my Master's in Applied Machine Learning at the University of Maryland, College Park. I hold a B.Tech in Computer Science from IIIT Pune, and my work so far has centered on addressing real world challenges with AI-driven solutions using deep learning and computer vision. I worked on developing people detection and recognition systems for real-time video surveillance applications. Additionally, I applied computer vision techniques to driver assistance and autonomous systems, particularly addressing challenges specific to the Indian road context.
 
 In my free time, I enjoy exploring the latest AI tools that boost productivity (they consume a good portion of my time but hey, they save even more in the long run :p). When I'm not geeking out, you'll find me swimming, trekking or saying yes to spontaneous travel plans. 
 
