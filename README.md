@@ -43,6 +43,7 @@ Feel free to reach out via email or connect with me on LinkedIn.
 ![](https://github-readme-stats.vercel.app/api?username=surajrao2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajrao2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajrao2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Views](https://komarev.com/ghpvc/?username=surajrao2003&label=Views)
 
 ---
 
