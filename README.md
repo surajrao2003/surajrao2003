@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Suraj Rao
+Hi, I'm Suraj Rao. I'm an AI Engineer specializing in computer vision currently pursuing my Master's in Applied Machine Learning at the University of Maryland.
 
 Most of my journey in AI has been driven by a simple question: how do you take a model from an idea or research paper and make it useful in the real world?
 
@@ -7,7 +7,7 @@ Over the last few years, I've worked on problems across computer vision, multimo
 
 Along the way, I've realized that building useful AI isn't just about better models. It's about understanding the problem deeply, making the right trade-offs, and designing systems that are reliable in production. I enjoy the process of taking ideas from experimentation to deployment and continuously improving them through iteration and optimization.
 
-Currently, I'm pursuing my Master's in Applied Machine Learning at the University of Maryland. Having studied and worked across several cities in India and now in the United States, I've come to appreciate different perspectives and ways of thinking. I try to contribute through both technical problem-solving and thoughtful collaboration, whether that's optimizing a system, exploring a new idea, or helping a project move forward.
+Having studied and worked across several cities in India and now in the United States, I've come to appreciate different perspectives and ways of thinking. I try to contribute through both technical problem-solving and thoughtful collaboration, whether that's optimizing a system, exploring a new idea, or helping a project move forward.
 
 Always happy to connect with people working on interesting problems in AI, research and engineering. You can reach out to me at surajrao@umd.edu
 
