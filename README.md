@@ -13,8 +13,8 @@ Always happy to connect with people working on interesting problems in AI, resea
 
 ---
 
-### 🚗 Right now, I’m devoting my screen time to peeking through occlusions to detect vehicles!!
-<img src="https://github.com/surajrao2003/surajrao2003/raw/main/asset1.gif" height="400"/>
+### 👁️ Building AI Systems from Perception to Deployment
+<img src="asset2.png" width="100%"/>
 
 ---
 
