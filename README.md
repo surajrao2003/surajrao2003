@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Suraj Rao. I'm an AI Engineer specializing in computer vision currently pursuing my Master's in Applied Machine Learning at the University of Maryland.
 
-Most of my journey in AI has been driven by a simple question: how do you take a model from an idea or research paper and make it useful in the real world?
+Most of my work in AI has been driven by a simple question: how do you take a model from an idea or research paper and turn it into something that delivers real-world value?
 
 Over the last few years, I've worked on problems across computer vision, multimodal AI, Edge AI, model optimization and machine learning systems. I've built and optimized solutions for video analytics, semantic search, object detection, and edge deployment in both industry and research settings. My work has taken me from deploying vision systems across multiple camera streams and accelerating inference on edge devices to building semantic search engines and evaluating state-of-the-art transformer architectures for challenging real-world use cases.
 
